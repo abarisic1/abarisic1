@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio
 - 👀 I’m interested in web development through Python and JS
 - 🌱 I’m currently learning to code in Python, creating beginner/intermediate level type programs.
-- 💞️ I’m looking to collaborate on any project that can help me develop my programming skills (so any project :) )
+- 💞️ I’m looking to collaborate on any project that can help me develop my programming skills
 - 📫 How to reach me - barisicantonio94@gmail.com
 
 <!---
