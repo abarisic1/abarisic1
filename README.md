@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio
-- 👀 I’m interested in web development through Python and JS
-- 🌱 I’m currently learning to code in Python, creating beginner/intermediate level type programs.
-- 💞️ I’m looking to collaborate on any project that can help me develop my programming skills
+- 👀 I’m interested in Data Science, Machine Learning, AI
+- 🔧 I’m currently building my portfolio, mostly using Kaggle datasets and participating in competitions.
+- 📈 I’m looking for a job that can help me develop my data science/ML skills, and to whom I can contribute with my skills
 - 📫 How to reach me - barisicantonio94@gmail.com
 
 <!---
