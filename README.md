@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Antonio
-- 👀 I’m interested in Data Science, Machine Learning, AI
-- 🔧 I’m currently building my portfolio, mostly using Kaggle datasets and participating in competitions.
-- 📈 I’m looking for a job that can help me develop my data science/ML skills, and to whom I can contribute with my skills
+- 👀 I’m interested in Software Engineering, 
+- 🔧 I’m currently working on personal projects to build my portfolio. 
+- 📈 I’m looking for a job that can help me develop my software developing skills (backend development to be more precised), and to whom I can contribute with my skills
+- 💡 I'm a huge fan of problem-solving platforms like LeetCode, where I love to test my coding skills.
 - 📫 How to reach me - barisicantonio94@gmail.com
 
 <!---
